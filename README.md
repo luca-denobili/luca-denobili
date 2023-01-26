@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luca-denobili
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science at VU Amsterdam
+- 💻 I’m currently learning Computer Science at VU Amsterdam
 - 💞️ I’m looking to collaborate on projects that will make me grow as a software developer
 - 📫 How to reach me:
      **Twitter**: luca_denobili
